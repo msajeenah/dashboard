@@ -36,11 +36,7 @@ def find_start_date(date_list):
 
 
 
-def main():
 
-image = Image.open("beesline.png")
-    container.image(image, width=200)
-    container.write(" #   Beesline Data Analysis and Visualization # ")
 
 #function for finding the first 'Saturday'
 def find_end_date(date_list):
